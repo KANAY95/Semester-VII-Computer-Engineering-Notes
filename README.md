@@ -1,2 +1,2 @@
-# Sem-7-Comps-Notes
+# Semester-VII-Computer-Engineering-Notes
 Computer Engineering notes for sem-7 Mumbai University
